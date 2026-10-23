@@ -1,5 +1,7 @@
 # AI training jobs: pay and hiring data
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23596529.svg)](https://doi.org/10.5281/zenodo.23596529)
+
 Hourly pay and open roles for AI training work, by field, platform, country and language.
 
 Aggregate tables on paid AI training work (data annotation, AI evaluation, RLHF, expert and language roles) compiled by aitrainers.jobs from the job boards of 60+ platforms, including Mercor, Outlier, micro1, Alignerr, Turing, Handshake AI and DataAnnotation. Figures as of 2026-10-23.
@@ -16,9 +18,9 @@ The tables contain no personal data and no job listings, only counts and percent
 | `pay-by-platform.csv` | 15 | Hourly pay by platform |
 | `pay-by-country.csv` | 15 | Hourly pay by country a role is open to (worldwide roles not included) |
 | `pay-by-language.csv` | 15 | Hourly pay for roles that need a language other than English |
-| `trends/open-roles.csv` | 71 | Open roles over time (all roles, and the same platforms since day one) |
-| `trends/open-roles-by-field.csv` | 71 | Open roles by field over time |
-| `trends/open-roles-by-platform.csv` | 71 | Open roles by platform over time |
+| `trends/open-roles.csv` | 72 | Open roles over time (all roles, and the same platforms since day one) |
+| `trends/open-roles-by-field.csv` | 72 | Open roles by field over time |
+| `trends/open-roles-by-platform.csv` | 72 | Open roles by platform over time |
 | `trends/pay.csv` | 4 | Hourly pay over time: median, quartiles and 90th percentile |
 | `trends/pay-transparency.csv` | 39 | Share of roles that state pay, by platform |
 | `trends/market-turnover.csv` | 27 | Roles added and closed by platform, latest period |
@@ -33,7 +35,6 @@ Creative Commons Attribution 4.0 International (CC BY 4.0). Please credit:
 
 > aitrainers.jobs (2026). AI training jobs: pay and hiring data [Data set]. https://aitrainers.jobs/open-data
 
-
 ## Versions
 
-Each version is a release tagged with its date (for example `v2026-10-23`) and archived on Zenodo with a DOI. The tables on https://aitrainers.jobs/open-data are rebuilt hourly; this repository holds dated snapshots.
+Each version is a release tagged with its date (for example `v2026-10-23`), archived on Zenodo with its own DOI; [doi.org/10.5281/zenodo.23596529](https://doi.org/10.5281/zenodo.23596529) always points to the newest. The tables on https://aitrainers.jobs/open-data are rebuilt hourly; this repository holds monthly snapshots.
