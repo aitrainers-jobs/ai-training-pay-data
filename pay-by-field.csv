@@ -1,0 +1,16 @@
+field,label,open_roles,distinct_rated_postings,median_usd_hr,p25_usd_hr,p75_usd_hr,p90_usd_hr,max_usd_hr
+medicine,Medicine & health,255,72,100,60,150,190,400
+law,Law,175,70,100,80,130,170,290
+rlhf-eval,AI evaluation & rating,421,170,95,25,140,165,233
+finance,Finance & accounting,296,80,90,60,120,160,300
+stem-math,Maths & STEM,451,65,85,55,100,175,263
+coding,Coding,479,107,75,50,100,145,263
+other-expert,Other expertise,871,182,70,45,95,125,300
+red-teaming,Red-teaming & safety,77,22,65,55,90,110,225
+writing,Writing,104,21,55,35,90,100,120
+education,Education & teaching,15,6,55,35,80,110,110
+agentic-rl,Agents & RL tasks,114,19,45,35,65,75,100
+data-labeling,Data annotation,288,53,35,20,50,70,140
+audio-speech,Voice & audio,877,138,30,18,50,80,265
+multilingual,Languages & translation,966,86,20,11,35,45,100
+robotics-data,Robotics data,128,18,14,9,20,25,80

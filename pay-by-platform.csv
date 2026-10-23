@@ -1,0 +1,16 @@
+platform,label,open_roles,distinct_rated_postings,median_usd_hr,p25_usd_hr,p75_usd_hr,p90_usd_hr,max_usd_hr
+10x-team,10x Team,107,96,145,125,160,190,290
+remoexperts,RemoExperts,39,31,95,70,100,110,120
+weekday,Weekday (recruiter),210,104,95,75,125,170,350
+mercor,Mercor,273,118,85,65,105,160,400
+aligned,Aligned,15,10,80,60,100,115,115
+verita,Verita AI,31,18,75,50,100,115,150
+terac,Terac,33,11,70,50,100,110,200
+jt-ai-labs,JT AI Labs,135,45,70,40,125,175,263
+micro1,micro1,258,131,65,40,110,175,270
+alignerr,Alignerr,494,110,60,45,80,100,300
+sepal,Sepal AI,59,46,60,50,75,80,292
+anyone-ai,Anyone AI,194,14,45,40,65,150,150
+claru,Claru,60,23,45,25,80,80,78
+invisible,Invisible,558,52,35,20,35,60,115
+rise-data-labs,Rise Data Labs,109,27,30,30,35,40,150

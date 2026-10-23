@@ -1,0 +1,28 @@
+{
+  "upload_type": "dataset",
+  "title": "AI training jobs: pay and hiring data",
+  "description": "Aggregate tables on paid AI training work (data annotation, AI evaluation, RLHF, expert and language roles) compiled by aitrainers.jobs from the job boards of 60+ platforms, including Mercor, Outlier, micro1, Alignerr, Turing, Handshake AI and DataAnnotation. Figures as of 2026-10-23.\n\nPay is in US dollars per hour. Only postings that state an hourly rate count; each distinct posting counts once; \"up to\" ceilings and paid research studies are left out; a range counts at its midpoint. Method: https://aitrainers.jobs/methodology\n\nThe tables contain no personal data and no job listings, only counts and percentiles. Live versions, rebuilt hourly: https://aitrainers.jobs/open-data",
+  "creators": [
+    {
+      "name": "aitrainers.jobs"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "AI training",
+    "data annotation",
+    "RLHF",
+    "labour market",
+    "gig economy",
+    "remote work",
+    "wages",
+    "artificial intelligence"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://aitrainers.jobs/open-data",
+      "relation": "isSupplementedBy",
+      "scheme": "url"
+    }
+  ]
+}

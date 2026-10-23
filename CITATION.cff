@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+type: dataset
+title: "AI training jobs: pay and hiring data"
+authors:
+  - name: "aitrainers.jobs"
+date-released: 2026-10-23
+version: "2026-10-23"
+license: CC-BY-4.0
+url: "https://aitrainers.jobs/open-data"
+keywords:
+  - "AI training"
+  - "data annotation"
+  - "RLHF"
+  - "labour market"
+  - "gig economy"
+  - "remote work"
+  - "wages"
+  - "artificial intelligence"

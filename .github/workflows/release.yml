@@ -1,0 +1,17 @@
+# Publishes a GitHub release for every version tag (v2026-10-23), which Zenodo archives with a DOI.
+# The release is created by the workflow's own token, so it is credited to GitHub Actions rather than a person.
+name: Release
+on:
+  push:
+    tags: ['v*']
+permissions:
+  contents: write
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Create the release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release create "$GITHUB_REF_NAME" --title "AI training jobs: pay and hiring data, ${GITHUB_REF_NAME#v}" --notes "Tables as of ${GITHUB_REF_NAME#v}. Live versions: https://aitrainers.jobs/open-data"
