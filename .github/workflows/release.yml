@@ -14,4 +14,5 @@ jobs:
       - name: Create the release
         env:
           GH_TOKEN: ${{ github.token }}
-        run: gh release create "$GITHUB_REF_NAME" --title "AI training jobs: pay and hiring data, ${GITHUB_REF_NAME#v}" --notes "Tables as of ${GITHUB_REF_NAME#v}. Live versions: https://aitrainers.jobs/open-data"
+        run: |
+          gh release create "$GITHUB_REF_NAME" --title "AI training jobs: pay and hiring data, ${GITHUB_REF_NAME#v}" --notes "Tables as of ${GITHUB_REF_NAME#v}. Live versions: https://aitrainers.jobs/open-data"
