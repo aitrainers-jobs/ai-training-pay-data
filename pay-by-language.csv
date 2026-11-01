@@ -1,16 +1,16 @@
 language,label,open_roles,distinct_rated_postings,median_usd_hr,p25_usd_hr,p75_usd_hr,p90_usd_hr,max_usd_hr
-Spanish,Spanish,197,57,35,25,55,85,180
-French,French,173,51,35,25,60,150,223
-German,German,143,48,35,25,60,105,265
-Arabic,Arabic,140,27,30,30,35,80,180
-Japanese,Japanese,122,38,35,30,60,125,180
-Portuguese,Portuguese,116,32,35,25,35,50,180
-Dutch,Dutch,110,29,35,25,35,100,180
-Korean,Korean,98,30,35,25,35,125,180
-Italian,Italian,87,31,30,20,35,55,185
-Hindi,Hindi,68,17,30,15,35,35,105
-Chinese,Chinese,61,18,25,15,35,35,43
-Russian,Russian,56,19,30,20,35,45,180
-Indonesian,Indonesian,52,14,35,30,80,170,180
-Vietnamese,Vietnamese,51,15,35,18,80,150,180
-Mandarin Chinese,Mandarin Chinese,50,20,35,25,60,120,180
+Spanish,Spanish,192,61,35,25,55,100,180
+French,French,168,52,35,25,55,135,223
+German,German,150,52,35,25,60,120,265
+Portuguese,Portuguese,118,34,35,25,40,50,180
+Arabic,Arabic,114,27,35,30,45,80,180
+Japanese,Japanese,113,36,35,25,45,120,180
+Korean,Korean,92,27,35,25,35,125,180
+Italian,Italian,85,32,30,20,35,55,185
+Dutch,Dutch,82,29,35,25,35,50,180
+Hindi,Hindi,69,20,30,25,35,45,105
+Russian,Russian,62,21,35,20,35,50,180
+Chinese,Chinese,58,17,25,16,35,35,50
+Indonesian,Indonesian,55,17,35,30,50,105,180
+Vietnamese,Vietnamese,52,16,35,18,35,80,180
+Mandarin Chinese,Mandarin Chinese,50,23,35,25,60,120,180

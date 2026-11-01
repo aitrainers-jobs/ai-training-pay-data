@@ -4,8 +4,8 @@ type: dataset
 title: "AI training jobs: pay and hiring data"
 authors:
   - name: "aitrainers.jobs"
-date-released: 2026-10-23
-version: "2026-10-23"
+date-released: 2026-11-01
+version: "2026-11-01"
 license: CC-BY-4.0
 url: "https://aitrainers.jobs/open-data"
 doi: 10.5281/zenodo.23596529

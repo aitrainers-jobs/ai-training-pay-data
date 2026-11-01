@@ -1,28 +1,45 @@
 platform,roles_added,roles_closed,period_start,period_days
-Mindrift,289,12,2026-10-20,3
-Weekday,2,100,2026-10-20,3
-micro1,42,13,2026-10-20,3
-RWS TrainAI,43,6,2026-10-20,3
-Mercor,19,19,2026-10-20,3
-Welo Data,4,34,2026-10-20,3
-Volga Partners,7,17,2026-10-20,3
-Alignerr,20,3,2026-10-20,3
-Terac,15,0,2026-10-20,3
-Prolific,14,0,2026-10-20,3
-Braintrust,1,12,2026-10-20,3
-CloudFactory,0,13,2026-10-20,3
-TransPerfect DataForce,1,11,2026-10-20,3
-G2i,12,0,2026-10-20,3
-xAI,1,9,2026-10-20,3
-Appen / CrowdGen,9,0,2026-10-20,3
-Handshake AI,2,5,2026-10-20,3
-iMerit Scholars,1,6,2026-10-20,3
-Invisible,5,0,2026-10-20,3
-SuperAnnotate,3,2,2026-10-20,3
-RemoExperts,3,1,2026-10-20,3
-OneForma,0,3,2026-10-20,3
-Sovrano AI,1,2,2026-10-20,3
-Scale AI,0,2,2026-10-20,3
-Anyone AI,1,0,2026-10-20,3
-Sigma AI,0,1,2026-10-20,3
-Pila8,1,0,2026-10-20,3
+Ethos,213,0,2026-10-25,7
+micro1,105,78,2026-10-25,7
+Weekday,0,113,2026-10-25,7
+Mercor,55,44,2026-10-25,7
+Mindrift,53,8,2026-10-25,7
+Turing,32,23,2026-10-25,7
+Prolific,48,0,2026-10-25,7
+JT AI Labs,31,14,2026-10-25,7
+Sovrano AI,18,19,2026-10-25,7
+Alignerr,10,26,2026-10-25,7
+Verita AI,5,17,2026-10-25,7
+RWS TrainAI,18,3,2026-10-25,7
+Handshake AI,20,0,2026-10-25,7
+"Lifted, an Upwork Company",18,2,2026-10-25,7
+Appen / CrowdGen,4,14,2026-10-25,7
+Sigma AI,4,14,2026-10-25,7
+Volga Partners,15,3,2026-10-25,7
+Jobgether,7,9,2026-10-25,7
+Welo Data,10,4,2026-10-25,7
+xAI,11,0,2026-10-25,7
+HumanSignal,5,5,2026-10-25,7
+Babel Audio,6,2,2026-10-25,7
+Anyone AI,7,0,2026-10-25,7
+Terac,6,1,2026-10-25,7
+RemoExperts,1,6,2026-10-25,7
+SuperAnnotate,3,3,2026-10-25,7
+Outlier,2,4,2026-10-25,7
+CloudFactory,4,2,2026-10-25,7
+OneForma,2,3,2026-10-25,7
+Chemin,3,0,2026-10-25,7
+Rise Data Labs,2,0,2026-10-25,7
+TransPerfect DataForce,1,1,2026-10-25,7
+Pasiflora AI,1,1,2026-10-25,7
+iMerit Scholars,2,0,2026-10-25,7
+Lilt,2,0,2026-10-25,7
+TSMG,2,0,2026-10-25,7
+Smallest.ai,0,2,2026-10-25,7
+Invisible,0,1,2026-10-25,7
+Braintrust,0,1,2026-10-25,7
+G2i,1,0,2026-10-25,7
+Cohere,1,0,2026-10-25,7
+Label Your Data,0,1,2026-10-25,7
+BeatpulseLabs,1,0,2026-10-25,7
+Amazon AGI Data Services,1,0,2026-10-25,7
